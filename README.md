@@ -5,7 +5,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
     <h2>Hello!!I am Sneha Debnath....Nice to meet you</h2>
-    <p>A frontend developer with a passion for coffee and coding. I’m a technical enthusiast who loves reading and writing. I never give up on my goals and constantly seek to learn new things. I thrive on working on projects that excite me.</p>.
+    <p>A frontend developer with a passion for coffee and coding. I’m a technical enthusiast who loves reading and writing. I never give up on my goals and constantly seek to learn new things. I thrive on working on projects that excite me.</p>
     
 
 
