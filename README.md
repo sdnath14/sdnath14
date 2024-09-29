@@ -7,8 +7,7 @@
     <h2>Hello!!I am Sneha Debnath....Nice to meet you</h2>
     <p>A frontend developer with a passion for coffee and coding. I’m a technical enthusiast who loves reading and writing. I never give up on my goals and constantly seek to learn new things. I thrive on working on projects that excite me.</p>.
     
-</div>
-<img align="right" alt="coding" width="400" src="https://www.creativefabrica.com/wp-content/uploads/2023/04/03/Lofi-Anime-Girl-Programming-At-Computer-66116973-1.png">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdnath14&label=Profile%20views&color=0e75b6&style=flat" alt="sdnath14" /> </p>
 
