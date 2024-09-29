@@ -7,8 +7,8 @@
     <h2>Hello!!I am Sneha Debnath....Nice to meet you</h2>
     <p>A frontend developer with a passion for coffee and coding. I’m a technical enthusiast who loves reading and writing. I never give up on my goals and constantly seek to learn new things. I thrive on working on projects that excite me.</p>.
     
-
-
+</div>
+<img align="right" alt="coding" width="400" src="https://www.creativefabrica.com/wp-content/uploads/2023/04/03/Lofi-Anime-Girl-Programming-At-Computer-66116973-1.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdnath14&label=Profile%20views&color=0e75b6&style=flat" alt="sdnath14" /> </p>
 
@@ -26,9 +26,9 @@
 <p align="left">To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about me and my interests through my instagram. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together!</p>
 <p align="left">
 <a href="https://www.linkedin.com/in/sneha-debnath-11a631258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha debnath" height="30" width="40" /></a>
-<a href="https://fb.com/sneha debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sneha debnath" height="30" width="40" /></a>
-<a href="https://instagram.com/_s.dnath_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_s.dnath_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sneha debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sneha debnath" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100058876712110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sneha debnath" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_s.dnath_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_s.dnath_" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/snehadebnath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sneha debnath" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
