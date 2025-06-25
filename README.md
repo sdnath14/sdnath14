@@ -135,7 +135,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=50&lines=Success+isn't+magic%2C+it's+consistency.;Keep+pushing.+Keep+improving.;One+day+at+a+time." />
 </p>
 
-## 📈 GitHub Contribution Snake
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
 
 ![GitHub Snake](https://raw.githubusercontent.com/sdnath14/snake-animation/output/github-snake.svg)
 
