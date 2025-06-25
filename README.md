@@ -3,6 +3,13 @@
 >
 
 
+ ## 👩‍💻 Meet the Coder
+
+<p align="center">
+  <img src="https://github.com/sdnath14/sdnath14/blob/main/coder.png-removebg-preview.png?raw=true" width="300" alt="Animated Coder Girl with Kitty" />
+</p>
+
+
 <!-- Symbol Animation -->
   <p align="center">
     <img 
@@ -27,9 +34,7 @@
   🌱 I'm currently learning Java and Spring Boot.  
   💬 Ask me about technology-related stuff.  
   ⚡ Fun fact about me: I love to torture my Mac 24h.
-  <p align="center">
-  <img src="https://github.com/sdnath14/sdnath14/blob/main/coder.png.jpeg?raw=true" width="300" alt="Coder Girl with Kitty" />
-</p
+ 
   <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30"><img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/llamas/llama-blood-tears-gif.gif" width="30">
 
