@@ -113,10 +113,15 @@
   ### 🎧 Now Playing on Spotify
 
   <p align="center">
-    <a href="https://github.com/kittinan/spotify-github-profile">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=z3qp4cy2xrrsfndezndtmeq66&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="400" />
-    </a>
-  </p>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=z3qp4cy2xrrsfndezndtmeq66&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
+      width="250" 
+      style="height:300px;" 
+    />
+  </a>
+</p>
+
 
 
 
