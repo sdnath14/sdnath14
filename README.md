@@ -8,6 +8,11 @@
   />
 </p>
 
+<!-- 👩‍💻 Coder Girl with Kitty -->
+<p align="center">
+  <img src="https://github.com/sdnath14/sdnath14/blob/main/coder.png-removebg-preview.png?raw=true" width="280" alt="Animated Coder Girl with Kitty" />
+</p>
+
 <!-- 🖋️ Actual Typing Intro -->
 <p align="center">
   <img 
