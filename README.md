@@ -1,4 +1,8 @@
 <div align="center">
+
+  <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+
   <h1>
     <img 
       src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=500&color=33FF33&center=true&vCenter=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B+I'm+Sneha.;Java+Full-Stack+Developer.;Spring+Boot+%7C+DSA+%7C+AI.;Passionate+about+building+cool+stuff.;Always+learning+%F0%9F%93%9A+and+creating+%F0%9F%92%BB." 
