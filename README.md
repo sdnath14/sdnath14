@@ -1,6 +1,6 @@
 <div align="center">
 
->
+
 
 
  ## 👩‍💻 Meet the Coder
@@ -8,25 +8,25 @@
 <p align="center">
   <img src="https://github.com/sdnath14/sdnath14/blob/main/coder.png-removebg-preview.png?raw=true" width="300" alt="Animated Coder Girl with Kitty" />
 </p>
+<!-- 🧿 Symbolic Intro Header -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=79A500&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82" 
+    alt="Encrypted Intro"
+  />
+</p>
+
+<!-- 🖋️ Actual Typing Intro -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=500&color=79A500&center=true&vCenter=true&width=1000&height=60&lines=Hi+%F0%9F%91%8B+I'm+Sneha.;Java+Full-Stack+Developer.;Spring+Boot+%7C+DSA+%7C+AI.;Always+learning+and+creating+cool+stuff." 
+    alt="Sneha Typing Animation"
+  />
+</p>
 
 
-<!-- Symbol Animation -->
-  <p align="center">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82" 
-      alt="Symbol Typing Animation"
-    />
-  </p>
+
   
-
-  <!-- Main Typing Animation -->
-  <h1>
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=500&color=79A500&center=true&vCenter=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B+I'm+Sneha.;Java+Full-Stack+Developer.;Spring+Boot+%7C+DSA+%7C+AI.;Passionate+about+building+cool+stuff.;Always+learning+%F0%9F%93%9A+and+creating+%F0%9F%92%BB." 
-      alt="Sneha Typing Animation"
-    />
-  </h1>
-  </h1>
 
   ## 💫 About Me
   🔭 I'm currently working on my web project.  
