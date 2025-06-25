@@ -1,9 +1,12 @@
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=36&duration=1500&pause=500&color=FF69B4&center=true&vCenter=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B+I'm+Sneha.;Java+Full-Stack+Developer.;Spring+Boot+%7C+DSA+%7C+AI.;Passionate+about+building+cool+stuff.;Always+learning+%F0%9F%93%9A+and+creating+%F0%9F%92%BB." 
-    alt="Typing SVG"
-/>
-</p>
+<div align="center">
+  <h1>
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=500&color=33FF33&center=true&vCenter=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B+I'm+Sneha.;Java+Full-Stack+Developer.;Spring+Boot+%7C+DSA+%7C+AI.;Passionate+about+building+cool+stuff.;Always+learning+%F0%9F%93%9A+and+creating+%F0%9F%92%BB." 
+      alt="Typing SVG" 
+    />
+  </h1>
+</div>
+
 
 
 ## 💫 About Me
