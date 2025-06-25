@@ -97,9 +97,10 @@
 
   ## 📊 GitHub Stats
 
-  ![](https://github-readme-stats.vercel.app/api?username=sdnath14&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-  ![](https://github-readme-streak-stats.herokuapp.com?user=sdnath14&theme=dark&hide_border=false)  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sdnath14&theme=dark&layout=compact&hide_border=false)
+<a href="https://github.com/sdnath14">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdnath14&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6&layout=compact" />
+</a>
+
 
   ---
 
