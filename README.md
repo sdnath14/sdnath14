@@ -7,25 +7,6 @@
     alt="Encrypted Intro"
   />
 </p>
-
-<!-- 👩‍💻 Coder Girl with Kitty -->
-<p align="center">
-  <img src="https://github.com/sdnath14/sdnath14/blob/main/coder.png-removebg-preview.png?raw=true" width="280" alt="Animated Coder Girl with Kitty" />
-</p>
-
-<!-- 🖋️ Actual Typing Intro -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=500&color=79A500&center=true&vCenter=true&width=1000&height=60&lines=Hi+%F0%9F%91%8B+I'm+Sneha.;Java+Full-Stack+Developer.;Spring+Boot+%7C+DSA+%7C+AI.;Always+learning+and+creating+cool+stuff." 
-    alt="Sneha Typing Animation"
-  />
-</p>
-
-
-
-
-
-
   
 
   ## 💫 About Me
@@ -41,6 +22,18 @@
 
 
   ---
+  <!-- 👩‍💻 Coder Girl with Kitty -->
+<p align="center">
+  <img src="https://github.com/sdnath14/sdnath14/blob/main/coder.png-removebg-preview.png?raw=true" width="280" alt="Animated Coder Girl with Kitty" />
+</p>
+
+<!-- 🖋️ Actual Typing Intro -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=500&color=79A500&center=true&vCenter=true&width=1000&height=60&lines=Hi+%F0%9F%91%8B+I'm+Sneha.;Java+Full-Stack+Developer.;Spring+Boot+%7C+DSA+%7C+AI.;Always+learning+and+creating+cool+stuff." 
+    alt="Sneha Typing Animation"
+  />
+</p>
 
 
   ## 🌐 Connect With Me
