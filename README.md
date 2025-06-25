@@ -76,4 +76,13 @@
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=z3qp4cy2xrrsfndezndtmeq66&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="400" />
     </a>
   </p>
+
+
+
+  ## 🧠 Words I Live By
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=50&lines=Success+isn't+magic%2C+it's+consistency.;Keep+pushing.+Keep+improving.;One+day+at+a+time." />
+</p>
+
 </div>
