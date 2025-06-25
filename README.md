@@ -1,28 +1,32 @@
 <div align="center">
-
-
-
-
- ## 👩‍💻 Meet the Coder
-
+<!-- 👩‍💻🌟 Meet the Coder Section -->
 <p align="center">
-  <img src="https://github.com/sdnath14/sdnath14/blob/main/coder.png-removebg-preview.png?raw=true" width="300" alt="Animated Coder Girl with Kitty" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&width=800&lines=+Meet+the+Coder+Sneha!;⚡+Creative+.+Curious+.+Consistent.;🚀+Code.+Create.+Conquer." alt="Meet the Coder Typing Animation" />
 </p>
-<!-- 🧿 Symbolic Intro Header -->
+
+<!-- 👩‍💻 Coder Girl with Kitty -->
+<p align="center">
+  <img src="https://github.com/sdnath14/sdnath14/blob/main/coder.png-removebg-preview.png?raw=true" width="280" alt="Animated Coder Girl with Kitty" />
+</p>
+
+<!-- 🔐 Encrypted Symbol Animation -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=79A500&center=true&vCenter=true&width=1000&height=100&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82" 
-    alt="Encrypted Intro"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=79A500&center=true&vCenter=true&width=1000&height=80&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82" 
+    alt="Encrypted Symbol Header"
   />
 </p>
 
-<!-- 🖋️ Actual Typing Intro -->
+<!-- 💬 Personal Intro Typing -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=500&color=79A500&center=true&vCenter=true&width=1000&height=60&lines=Hi+%F0%9F%91%8B+I'm+Sneha.;Java+Full-Stack+Developer.;Spring+Boot+%7C+DSA+%7C+AI.;Always+learning+and+creating+cool+stuff." 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=500&color=79A500&center=true&vCenter=true&width=1000&height=50&lines=Hi+%F0%9F%91%8B+I'm+Sneha.;Java+Full-Stack+Developer.;Spring+Boot+%7C+DSA+%7C+AI.;Always+learning+and+creating+cool+stuff." 
     alt="Sneha Typing Animation"
   />
 </p>
+
+
+
 
 
 
@@ -204,7 +208,7 @@
 
  
 </p>
-<!--📏LINE-->
+
 
 
 
